@@ -17,3 +17,4 @@
 |[**librispeech_asr**](https://huggingface.co/datasets/fixie-ai/librispeech_asr)|EN, speech continuation|
 |[**SemanticVAD-Dataset**](https://huggingface.co/datasets/KE-Team/SemanticVAD-Dataset)|ZH, EN|
 |[**CapSpeech**](https://huggingface.co/datasets/OpenSound/CapSpeech)|EN|
+|[**FusionAudio**](https://huggingface.co/datasets/SatsukiVie/FusionAudio)|EN|
